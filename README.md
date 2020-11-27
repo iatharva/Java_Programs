@@ -1,6 +1,6 @@
 # JavaPrograms
 
-##For Begineers, How to run above java programs present in this repository(on windows)?
+## For Begineers, How to run above java programs present in this repository(on windows)?
 
 - Check if java is installed on your computer 
       ~ Open command prompt and enter “java –version”. If installed version number is displayed.
